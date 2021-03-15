@@ -1,11 +1,7 @@
-<svg fill="none" viewBox="0 0 300 80" width="300" height="80" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 300 90" width="300" height="90" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                @font-face {
-                font-family: font;
-                src: url(EdoSZHQ.ttf);
-                }
                 @keyframes gradientText {
                 0% {
                 background-position: 0% 50%;
@@ -19,8 +15,7 @@
                 }
 
                 h1 {
-                font-family: font,
-                -apple-system,
+                font-family: -apple-system,
                 BlinkMacSystemFont,
                 'Segoe UI',
                 'Roboto',
