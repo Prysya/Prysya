@@ -4,7 +4,7 @@
 
 ## Hi👋, I'm [Stas!](https://github.com/prysya/)
 
-<img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230" style='border-radius: 100%'>
 <p><em>Software Engineer at <a href="http://istokmw.ru/">JSC "RPC "Istok" named after Shokin"</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
