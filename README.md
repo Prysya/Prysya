@@ -10,7 +10,7 @@
 
 [![Twitter](https://raw.githubusercontent.com/prysya/prysya/main/icons/icons8-twitter.png)](https://twitter.com/prysya_webdev)
 [![Github](https://raw.githubusercontent.com/prysya/prysya/main/icons/icons8-github.png)](https://github.com/prysya)
-[![Telegram](https://raw.githubusercontent.com/prysya/prysya/main/icons/icons8-telegram.png)](https://t.me/Bloodofabyss)
+[![Telegram](https://raw.githubusercontent.com/prysya/prysya/main/icons/icons8-telegram.png)](https://t.me/prysya_webdev)
 
 ### <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="50"> A little more about me...
 
