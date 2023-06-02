@@ -5,7 +5,7 @@
 ## Hi👋, I'm [Stas!](https://github.com/prysya/)
 
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230" style='border-radius: 100%'>
-<p><em>Middle Frontend Developer at <a href="https://www.lanit.ru/en/">Lanit</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full-stack Developer at <a href="https://www.lanit.ru/en/">Lanit</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter](https://raw.githubusercontent.com/prysya/prysya/main/icons/icons8-twitter.png)](https://twitter.com/prysya_webdev)
